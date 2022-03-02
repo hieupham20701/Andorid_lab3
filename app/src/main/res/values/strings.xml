@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="strike_text">
+        <strike>141.800đ</strike>
+
+    </string>
+</resources>
